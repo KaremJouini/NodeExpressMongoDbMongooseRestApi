@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c4df2be-0061-4295-a20c-fd79ed4ee091" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XnDaOii17juHlOtADdJulsjaxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/lib64/node_modules/npm12" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run dev" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="shrinkwrap" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="/usr/lib64/node_modules/npm12" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c4df2be-0061-4295-a20c-fd79ed4ee091" name="Default Changelist" comment="" />
+      <created>1581673027536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581673027536</updated>
+      <workItem from="1581673028742" duration="42000" />
+      <workItem from="1581673085738" duration="299000" />
+      <workItem from="1581674322514" duration="30000" />
+      <workItem from="1581678506329" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581673353976">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="419" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1581673353976" />
+    <state x="529" y="202" key="#dev" timestamp="1581673319296">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="529" y="202" key="#dev/0.0.1920.1044@0.0.1920.1044" timestamp="1581673319296" />
+    <state x="743" y="264" key="FileChooserDialogImpl" timestamp="1581673315170">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="743" y="264" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1581673315170" />
+    <state width="1897" height="252" key="GridCell.Tab.0.bottom" timestamp="1581678587145">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1581678587145" />
+    <state width="1897" height="252" key="GridCell.Tab.0.center" timestamp="1581678587145">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1581678587145" />
+    <state width="1897" height="252" key="GridCell.Tab.0.left" timestamp="1581678587144">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1581678587144" />
+    <state width="1897" height="252" key="GridCell.Tab.0.right" timestamp="1581678587145">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1581678587145" />
+    <state x="624" y="238" width="672" height="677" key="run.anything.popup" timestamp="1581673341105">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="624" y="238" width="672" height="677" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1581673341105" />
+  </component>
+</project>

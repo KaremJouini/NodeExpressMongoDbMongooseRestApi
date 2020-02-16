@@ -1,0 +1,2 @@
+npm i mongodb --save
+npm i express-jwt jwks-rsa
